@@ -1,0 +1,53 @@
+.carousel-container{
+    background-color: #947aff;
+    height: 500px;
+}
+.doctorContainer {
+    width: 100%;
+    display: flex;
+    /* justify-content: space-between; */
+    justify-content: center;
+    /* border: solid black 2px; */
+    /* border-radius: 20; */
+    flex-wrap: wrap;
+}
+.doctorCard {
+    display: flex;
+    flex-wrap: wrap;
+    width: 30%;
+    border: none;
+    background-color: #ffffff;
+    box-shadow: rgb(206, 206, 206) 0px 0px 5px;
+    /* padding: 20; */
+
+    /* border-radius: 50; */
+}
+.doctor-view-button {
+    height: 50;
+    width: 50;
+    border-radius: 50;
+    border: none;
+    background-color: #947aff;
+    align-content: center;
+}
+
+/* .doctorCard Image{
+    mask: ;
+} */
+
+.doctor-name {
+    /* font-weight:bold; */
+    font-size: 1.5rem;
+    text-align: start;
+
+}
+
+.doctor-specialization {
+    text-align: start;
+
+    color: gray;
+    font-size: 1rem;
+    display: flex;
+    /* justify-content: space-between; */
+    /* margin: auto; */
+}

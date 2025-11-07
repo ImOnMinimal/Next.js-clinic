@@ -1,0 +1,39 @@
+/* .aboutAccordion-1{
+    background-color: grey;
+    border-radius: 20;
+    border: 1px solid black;
+/* } */
+
+/* .aboutAccordion-1-item {
+    font-size: 18px;
+
+} */
+
+.aboutAccordion-1-header {
+    /* font-size: 20px; */
+    border: 1px solid rgb(204, 204, 204);
+    border-bottom: #947aff solid;
+    border-radius: 5 5 0 0;
+}
+
+/* .aboutAccordion-1-header {
+    
+} */
+
+.aboutAccordion-1-header button {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.aboutAccordion-1-body {
+    border: 1px solid rgb(204, 204, 204);
+
+    border-top: none;
+    /* border-bottom: #947aff solid; */
+    border-radius: 0 0 5 5;
+    background-color: #f9faff;
+}
+
+.card{
+    border: 0;
+}

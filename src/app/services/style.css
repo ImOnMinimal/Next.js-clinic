@@ -1,0 +1,15 @@
+.services-filter-block {
+    padding: 50px;
+    box-shadow: rgb(206, 206, 206) 0px 0px 5px;
+    background-color: #ffffff;
+    border-radius: 50;
+}
+
+.services-filter-block input {
+    width: 100%;
+    border-radius: 20px;
+    border: black 1px solid;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
